@@ -22,6 +22,7 @@ This method is easier to read but obviously less flexible. Essentially you creat
     model = Sequential()
     model.add(.....first layer ....)
     model.add(.... second layer....)
-    model.add(....Output layer.... )```
+    model.add(....Output layer.... ) 
+```
 
 
