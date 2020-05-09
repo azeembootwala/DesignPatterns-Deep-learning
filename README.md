@@ -1,4 +1,4 @@
 # DesignPatterns-Deep-learning
 
-## Repository that contains examples of recent state of the art deep-learning design patterns.
+## Repository that contains recent state of the art deep-learning design patterns.
 
