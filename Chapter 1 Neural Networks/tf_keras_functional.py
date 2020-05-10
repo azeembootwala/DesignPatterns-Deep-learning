@@ -15,13 +15,6 @@ def make_functional_model(input_shape):
 
     return Model(inputs, outputs)
 
-def model_branch():
-    # An example of how a model structure looks for a branched NN
-    pass 
-
-def model_multi_label():
-    # An example of a model structure for multi-label classification
-    pass
 
 def train():
     model = make_functional_model((28,28))
