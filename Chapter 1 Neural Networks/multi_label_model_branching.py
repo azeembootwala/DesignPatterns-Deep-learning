@@ -18,6 +18,7 @@ def model_branch():
 
     model.compile(loss = 'categorical_crossentropy' , optimizer = 'adam', metrics = ['accuracy'])
     model.summary()
+    return model
 
 def model_multi_label():
     # An example of a model structure for multi-label classification
