@@ -38,7 +38,7 @@ model = Sequential([.....first layer.....,
 ```
 
 ## Functional API Method 
-As comparred to the sequential API the finctional API is differnet, it is more flexible and scalable. You first define the layers and then you tie all the layers to gether with a Model object:
+As comparred to the sequential API the finctional API is different, it is more flexible and scalable. You first define the layers and then you tie all the layers to gether with a Model object:
 
 ```
 from tensorflow.keras import Model
